@@ -1,3 +1,4 @@
+ Setup
 yes_no = ["yes", "no"]
 directions = ["left", "right", "forward", "backward"]
  
@@ -138,5 +139,5 @@ while response not in directions:
         print("")
         print("You keep going into the far country side still holding the golden arrow but more tightly this time as you sense danger is approaching.")
         print(" ")
+        print("TO BE CONTINUED")
         print("----------------------------------------------------------------")
- # Next part of game
